@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class gfg1{
     public static void main(String args[]){
         Scanner sc =new Scanner(System.in);
-        int t,i,n,key=0;
+        int t,i,n,l,key=0;
         t=sc.nextInt();
         for(i=0;i<t;i++){
             n=sc.nextInt();
