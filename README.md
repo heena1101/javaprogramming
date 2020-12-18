@@ -1,2 +1,2 @@
 # Java Programming. 
-This repository contains my Java Programs.
+This repository contains all my Java Programs.
